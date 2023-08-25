@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         D&D Beyond CMS Image Placer
-// @namespace    http://tampermonkey.net/
+// @namespace    https://dndbeyond.com/
 // @version      1.0
 // @description  Making new image placement easy!
 // @author       Halfwing
