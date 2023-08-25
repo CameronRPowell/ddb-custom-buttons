@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         D&D Beyond Tooltip Button
 // @namespace    https://dndbeyond.com/
-// @version      0.3
+// @version      1.0
 // @description  Adds a tooltip button
 // @author       Halfwing
 // @match        https://*.dndbeyond.com/*
