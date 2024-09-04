@@ -4,6 +4,8 @@
 // @version      1.1.2024
 // @description  Adds a tooltip button — Actions, Items, Magic Items, Rules, and Spells now default to 2024 tags
 // @author       Halfwing
+// @updateURL    https://github.com/CameronRPowell/ddb-custom-buttons/raw/main/ddb-tooltip-button.user.js
+// @downloadURL  https://github.com/CameronRPowell/ddb-custom-buttons/raw/main/ddb-tooltip-button.user.js
 // @match        https://*.dndbeyond.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dndbeyond.com
 // @grant        none
