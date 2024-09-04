@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         D&D Beyond Tooltip Button
+// @name         D&D Beyond Tooltip Button (2024)
 // @namespace    https://dndbeyond.com/
-// @version      1.0
-// @description  Adds a tooltip button
+// @version      1.1.2024
+// @description  Adds a tooltip button — Actions, Items, Magic Items, Rules, and Spells now default to 2024 tags
 // @author       Halfwing
 // @match        https://*.dndbeyond.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dndbeyond.com
@@ -33,11 +33,11 @@
             },
             {
                 text: 'Item',
-                name: 'item'
+                name: 'items'
             },
             {
                 text: 'Magic Item',
-                name: 'magicitem'
+                name: 'magicitems'
             },
             {
                 text: 'Magic Item (src)',
@@ -45,7 +45,7 @@
             },
             {
                 text: 'Monster',
-                name: 'monster'
+                name: 'monsters'
             },
             {
                 text: 'Monster (src)',
@@ -61,7 +61,7 @@
             },
             {
                 text: 'Rule',
-                name: 'rule'
+                name: 'rules'
             },
             {
                 text: 'Sense',
@@ -73,7 +73,7 @@
             },
             {
                 text: 'Spell',
-                name: 'spell'
+                name: 'spells'
             },
             {
                 text: 'Weapon Property',
